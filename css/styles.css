@@ -1,0 +1,40 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+
+#mainnav{
+	background-color:#14AACC;
+}
+
+.header1 {
+	font-size: 2em;
+	color: #133951;
+	text-align: left;
+}
+ #c1{
+ 	margin-left: 0px;
+ }
+
+ .smods{
+ 	
+ 	border:1px solid black;
+ 	margin:40px;
+ 	margin-bottom: 80px;
+ 	margin-left: :auto;
+ 	margin-right: auto;
+ 	padding:40px;
+
+
+ }
+
+ .dmods{
+ 	font-size: 1.25em;
+ 	font-style: bold;
+ 	margin: 10px;
+ 	padding:5px;
+ 	text-align: center;
+ 	font-family: sans-serif;
+
+ }
